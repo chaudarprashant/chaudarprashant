@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Prashatn
+# 👋 Hey there! I'm Prashant
 
 🎓 4rd-year IT student at DY Patil College of Engineering, Akurdi  
 💻 Full Stack Developer | Java Enthusiast | MERN Stack  
@@ -22,4 +22,4 @@
 - 🌐 [Portfolio](https://portfolio-vn3f.onrender.com)
 - 📧 Email: prashantchaudar666@gmail.com 
 
-![Prashatn's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashatn&show_icons=true&theme=radical)
+![prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant&show_icons=true&theme=radical)
