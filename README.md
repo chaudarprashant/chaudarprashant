@@ -1,25 +1,49 @@
-# 👋 Hey there! I'm Prashant
+# 👋 Hey there! I'm Prashant  
 
-🎓 4rd-year IT student at DY Patil College of Engineering, Akurdi  
-💻 Full Stack Developer | Java Enthusiast | MERN Stack  
-📚 Currently learning: Machine Learning with MERN For final year project
+🎓 **Final-year IT Student** at DY Patil College of Engineering, Akurdi  
+💻 **Full Stack Developer | Java Enthusiast | MERN Stack**  
+📚 Currently learning: **Machine Learning with MERN** *(Final Year Project)*  
 
-## 🚀 Projects
-- 💼 [FreelanceConnect](https://github.com/chaudarprashant/FreelanceLink) — Micro freelancing platform For Student
-- 🔧 [QuickFix](https://github.com/chaudarprashant/QuickFix) — Report electronic issues with QR code
-- 🛒 [E-commerce Site](https://github.com/chaudarprashant/E-COMMERCE) — React + Node.js project
--  [WorldAtlas Site](https://github.com/chaudarprashant/WorldAtlas) — ReactJs project
--  [PortFolio Site](https://github.com/chaudarprashant/MYPORTFOLIO) — ReactJs project
+---
 
-## 🔧 Tech Stack
-- Frontend: React, Tailwind CSS, Bootstrap,HTML,CSS
-- Backend: Node.js, Express, MongoDB,MySql
-- Language: Java, JavaScript,C++
-- Tools: Git,GitHub,Render,Netlify,VSCode Firebase, Postman
+## 🚀 Projects  
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](www.linkedin.com/in/prashant-chaudar-690425253)
-- 🌐 [Portfolio](https://portfolio-vn3f.onrender.com)
-- 📧 Email: prashantchaudar666@gmail.com 
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💼 [FreelanceConnect](https://github.com/chaudarprashant/FreelanceLink) | Micro freelancing platform for students | MERN Stack |
+| 🔧 [QuickFix](https://github.com/chaudarprashant/QuickFix) | Report & track electronic issues via QR code | MERN + Firebase |
+| 🛒 [E-commerce Site](https://github.com/chaudarprashant/E-COMMERCE) | Full-featured online store | React, Node.js |
+| 🌍 [WorldAtlas Site](https://github.com/chaudarprashant/WorldAtlas) | Country data & details | React.js |
+| 🖌 [Portfolio Site](https://github.com/chaudarprashant/MYPORTFOLIO) | Personal portfolio website | React.js |
 
-![prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant&show_icons=true&theme=radical)
+---
+
+## 🛠 Tech Stack  
+
+**Frontend:** React, Tailwind CSS, Bootstrap, HTML, CSS  
+**Backend:** Node.js, Express, MongoDB, MySQL  
+**Languages:** Java, JavaScript, C++  
+**Tools & Platforms:** Git, GitHub, Render, Netlify, Firebase, Postman, VS Code  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudarprashant&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudarprashant&theme=radical" height="150" />
+</p>  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-chaudar-690425253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-vn3f.onrender.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="mailto:prashantchaudar666@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>  
+
+---
+
+> 💡 *I’m always open to collaborating on interesting projects, especially in MERN, Java, or ML.*  
